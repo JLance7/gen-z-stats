@@ -1,0 +1,122 @@
+{
+  "warnings": [],
+  "sources": {
+    "home_price": {
+      "missing_rows_removed": 0,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": [
+        {
+          "year": 2026,
+          "mean": 405100.0,
+          "count": 3
+        }
+      ]
+    },
+    "income": {
+      "missing_rows_removed": 0,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": []
+    },
+    "cpi": {
+      "missing_rows_removed": 1,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": [
+        {
+          "year": 2025,
+          "mean": 321.9619090909091,
+          "count": 11
+        },
+        {
+          "year": 2026,
+          "mean": 331.83744444444443,
+          "count": 9
+        }
+      ]
+    },
+    "mortgage_rate": {
+      "missing_rows_removed": 0,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": [
+        {
+          "year": 1971,
+          "mean": 7.541750000000002,
+          "count": 40
+        },
+        {
+          "year": 2026,
+          "mean": 6.53068181818182,
+          "count": 44
+        }
+      ]
+    },
+    "rent": {
+      "missing_rows_removed": 1,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": [
+        {
+          "year": 2025,
+          "mean": 434.9032727272727,
+          "count": 11
+        },
+        {
+          "year": 2026,
+          "mean": 445.9323333333333,
+          "count": 9
+        }
+      ]
+    },
+    "food": {
+      "missing_rows_removed": 1,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": [
+        {
+          "year": 2025,
+          "mean": 313.25890909090907,
+          "count": 11
+        },
+        {
+          "year": 2026,
+          "mean": 320.1792222222223,
+          "count": 9
+        }
+      ]
+    },
+    "energy": {
+      "missing_rows_removed": 1,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": [
+        {
+          "year": 2025,
+          "mean": 279.5552727272727,
+          "count": 11
+        },
+        {
+          "year": 2026,
+          "mean": 315.12444444444446,
+          "count": 9
+        }
+      ]
+    },
+    "wage": {
+      "missing_rows_removed": 0,
+      "duplicate_dates": 0,
+      "incomplete_or_current_years_excluded": [
+        {
+          "year": 2026,
+          "mean": 32.337,
+          "count": 10
+        }
+      ]
+    },
+    "marriage_age": {
+      "alternate_rows_removed": 4,
+      "selection": "first publisher row per year and sex"
+    },
+    "living_18-24": {
+      "alternate_rows_removed": 2
+    },
+    "living_25-34": {
+      "alternate_rows_removed": 2
+    }
+  }
+}
